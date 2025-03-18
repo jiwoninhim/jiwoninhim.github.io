@@ -1,5 +1,5 @@
 ---
-title: 논리학
+title: logic
 parent: Study
 ---
 
