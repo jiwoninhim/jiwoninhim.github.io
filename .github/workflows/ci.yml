@@ -43,15 +43,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: "3.4"
-          bundler-cache: false
-      - name: Bundle Install
-        run: bundle install
-        env:
-          BUNDLE_GEMFILE: fixtures/Gemfile-github-pages
+      # - name: Setup Ruby
+      #   uses: ruby/setup-ruby@v1
+      #   with:
+      #     ruby-version: "3.4"
+      #     bundler-cache: false
+      # - name: Bundle Install
+      #   run: bundle install
+      #   env:
+      #     BUNDLE_GEMFILE: fixtures/Gemfile-github-pages
       - name: Build Site
         run: bundle exec jekyll build
         env:
