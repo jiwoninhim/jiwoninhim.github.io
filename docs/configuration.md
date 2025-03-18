@@ -9,7 +9,7 @@ nav_order: 2
 
 ---
 
-this is the test page.[^a]
+this is a test page.[^a]
 
 [^a]:
     automatically created footnote
