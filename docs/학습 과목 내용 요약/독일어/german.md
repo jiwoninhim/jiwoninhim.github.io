@@ -1,3 +1,4 @@
 ---
 title: german
+parent: Study
 ---
