@@ -18,6 +18,7 @@ permalink: /
 
 #### author
 
+<--
 <ul class="list-style-none">
 {% for contributor in site.github.contributors %}
   <li class="d-inline-block mr-1">
@@ -25,3 +26,4 @@ permalink: /
   </li>
 {% endfor %}
 </ul>
+>
