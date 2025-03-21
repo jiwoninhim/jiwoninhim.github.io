@@ -17,3 +17,9 @@ permalink: /
 ---
 
 #### author
+
+<ul class="list-style-none">
+  <li class="d-inline-block mr-1">
+     <a href="https://github.com/jiwoninhim"><img src="https://github.com/jiwoninhim.png" width="32" height="32" alt="{{ contributor.login }}"></a>
+  </li>
+</ul>
