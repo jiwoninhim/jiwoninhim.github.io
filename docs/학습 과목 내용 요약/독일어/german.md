@@ -1,4 +1,4 @@
 ---
-title: german
+title: German language
 parent: Study
 ---
