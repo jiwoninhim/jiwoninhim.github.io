@@ -6,7 +6,7 @@ description: "A personal blog made with a Jekyll theme named 'Just-the-Docs' and
 permalink: /
 ---
 
-# 
+
 {: .fs-9 }
 
 ---
