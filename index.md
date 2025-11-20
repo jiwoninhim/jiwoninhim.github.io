@@ -8,6 +8,7 @@ permalink: /
 
 
 {: .fs-9 }
+Blog discontinued.
 
 ---
 
